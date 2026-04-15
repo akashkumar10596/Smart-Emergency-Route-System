@@ -1,4 +1,4 @@
-his project is a Smart Emergency Route System that finds the fastest and most optimal path between two locations.
+This project is a Smart Emergency Route System that finds the fastest and most optimal path between two locations.
 It uses Breadth First Search (BFS) to explore possible routes in a graph-based road network.
 It applies the A* Search Algorithm to calculate the shortest and most efficient emergency path.
 The system represents roads as a weighted graph where nodes are locations and edges are distances or travel time.
